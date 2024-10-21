@@ -193,3 +193,5 @@ runs/
 models/*
 !models/simpnet_slim_310k.pt
 !models/simpnet_slim_310k_emnist.pt
+
+google-api-key.txt
